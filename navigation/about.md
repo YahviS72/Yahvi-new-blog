@@ -9,3 +9,4 @@ Yahvi Sanam
 Birthday: 03/08/10 
 Fun fact: March 8 is natinoal womens day.
 Things I like: I like art, music, flowers, and i'm weirdly good at math.
+Family: I have an older sister who is 18 and goes to UIUC in Illions
