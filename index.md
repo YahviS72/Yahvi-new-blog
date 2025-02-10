@@ -5,4 +5,6 @@ description: Home Page
 hide: true
 ---
 
-My journey starts here.
+<a href="{{site.baseurl}}/Snake.md">
+<button>Snake</button>
+</a>

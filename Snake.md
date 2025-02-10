@@ -1,3 +1,10 @@
+---
+layout: base
+title: Snake Game 
+description: Snake Game
+hide: true
+---
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
